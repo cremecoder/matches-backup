@@ -1,4 +1,8 @@
-## Backup of matches.json and matches2.json for footy api
+# Backup of matches.json and matches2.json for footy api
+
+<br>
+
+## **`matches.json`**
 
 This is the code for GetData.js and SortData.js that the original flags API uses:
 https://restcountries.eu/rest/v2/all?fields=name;flag
@@ -16,8 +20,14 @@ if (country.name == wcCountry) {
 }
 ```
 
+<br>
+
+## **`matches2.json`**
+
+https://restcountries.com/v2/all?fields=name,flags
+
+<br>
+
 ## Important
 
-> restcountries.eu api where the flags are pullled from has crashed in the past.
-
-> It's end points may not be secure!
+> Both API's for the flags are unreliable.
