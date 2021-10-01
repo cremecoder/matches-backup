@@ -1,4 +1,4 @@
-# Backup of matches.json and matches2.json for footy api
+# Backup of matches.json, matches2.json and flag svg's for footy api
 
 <br>
 
